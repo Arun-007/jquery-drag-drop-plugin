@@ -1,0 +1,8 @@
+title: Jquery-drag-drop-plugin
+description: This jQuery plugin can handle both mouse- and touch-based drag and drop operations transparently. Its goal is to be simple to use without a lot of options. It is heavily based on style sheet class names and JavaScript callbacks for its customization.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
